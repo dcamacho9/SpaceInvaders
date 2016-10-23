@@ -1,4 +1,4 @@
-package com.example.danic.aplicacionprueba;
+package practicaps.space10;
 
 import org.junit.Test;
 
